@@ -12,7 +12,7 @@
 
 ### 💻 Aspiring Full-Stack Developer | Frontend Developer in Progress
 
-📍 Bangladesh &nbsp; • &nbsp; 📧 YOUR_EMAIL
+📍 Bangladesh &nbsp; • &nbsp; 📧 tanzimahmed575@gmail.com
 
 </div>
 
