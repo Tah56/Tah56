@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,react" />
 </p>
 
 > 📌 Currently exploring: **React, APIs, LocalStorage projects, and real-world dashboard systems**
