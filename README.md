@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode,react,vite,nextjs" />
 </p>
 
 > 📌 Currently exploring: **React, APIs, LocalStorage projects, and real-world dashboard systems**
