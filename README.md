@@ -39,11 +39,11 @@
 ## 🔥 Contribution & Commit Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tah56&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?tah56&theme=tokyonight" />
 </p>
 
 > 💡 This section shows your **commit streak, contribution activity, and overall GitHub profile insights**
@@ -53,10 +53,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tanzimahmed56@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/tah56">
     <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
