@@ -30,8 +30,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tah56&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tah56&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?tah56&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=tah56&theme=tokyonight" />
 </p>
 
 > 💡 This section shows your **commit streak, contribution activity, and overall GitHub profile insights**
