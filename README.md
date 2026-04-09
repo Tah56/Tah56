@@ -37,14 +37,6 @@
 
 > 📌 Currently exploring: **React, APIs, LocalStorage projects, and real-world dashboard systems**
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tah56&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tah56&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-</p>
 
 
 ---
