@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=tah56&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tah56&theme=tokyonight" />
 </p>
 
 > 💡 This section shows your **commit streak, contribution activity, and overall GitHub profile insights**
