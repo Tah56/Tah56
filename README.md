@@ -4,6 +4,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+React+and+Building+Projects;Always+Improving+Every+Day" alt="Typing SVG" />
 </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tanzim%20Ahmed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+</div>
+
+<div align="center">
+
+### 💻 Aspiring Full-Stack Developer | Frontend Developer in Progress
+
+📍 Bangladesh &nbsp; • &nbsp; 📧 YOUR_EMAIL
+
+</div>
+
 
 ---
 
