@@ -1,77 +1,75 @@
-# <div align="center">Hi 👋, I'm Tanzim Ahmed</div>
+<h1 align="center">Hi 👋, I'm Tanzim Ahmed</h1>
+<h3 align="center">A passionate frontend developer building clean, practical, and user-focused web experiences 🚀</h3>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tanzim%20Ahmed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
-</div>
-
-<div align="center">
-
-### 💻 Aspiring Full-Stack Developer | Frontend Developer in Progress
-
-📍 Bangladesh &nbsp; • &nbsp; 📧 tanzimahmed575@gmail.com
-
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+React+and+Building+Projects;Always+Improving+Every+Day" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-I'm a passionate web developer focused on building real-world projects and improving my skills step by step.  
-Currently, I'm strengthening my frontend foundation with JavaScript and moving toward React / Next.js, with the long-term goal of becoming a strong full-stack developer.
-
----
-
-## 🔭 Current Activities
-
-- 🌱 I’m currently exploring **React.js** and **Next.js**
-- 🍽️ I’m working on a **Restaurant / Order Management System**
-- 💡 I’m improving my **JavaScript logic and problem solving**
-- 🎯 I’m building projects that can be useful for **real clients / businesses**
-- 📚 I’m learning better **project structure and scalable development practices**
+- 🌱 Currently improving my skills in **JavaScript, React, and real-world projects**
+- 💻 Focused on building **clean UI**, **practical systems**, and **modern web apps**
+- 🚀 Interested in **Frontend Development**, **Web Apps**, and **Freelance-ready Projects**
+- 🧠 I believe in learning by **building actual projects**
+- ⚡ Fun fact: I don’t just learn code... I turn ideas into working systems 😎
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode" />
+> 📌 Currently exploring: **React, APIs, LocalStorage projects, and real-world dashboard systems**
 
-</div>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+</p>
+
+---
+
+## 🔥 Contribution & Commit Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+> 💡 This section shows your **commit streak, contribution activity, and overall GitHub profile insights**
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/tah56" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/tanzim-ahmed727/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="left">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ✨ Developer Mindset
 
-<div align="center">
-
-> **I don’t just want to learn code — I want to build systems people can actually use.** 🚀
-
-</div>
+```js
+const developer = {
+  name: "Tanzim Ahmed",
+  role: "Frontend Developer",
+  skills: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+  currentlyLearning: ["React", "APIs", "Advanced JavaScript"],
+  goal: "Build real-world projects and become industry-ready"
+};
