@@ -46,18 +46,13 @@ Currently, I'm strengthening my frontend foundation with JavaScript and moving t
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/tah56" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/tanzim-ahmed727/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.tiktok.com/@YOUR_TIKTOK" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://www.snapchat.com/add/YOUR_SNAPCHAT" target="_blank">
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" />
-</a>
+
 
 </div>
 
